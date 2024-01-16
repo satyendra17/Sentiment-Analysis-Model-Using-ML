@@ -1,2 +1,5 @@
 scikit-learn==1.3.2
 streamlit==1.30.0  # Replace with the version you are using
+
+#link to download dataset
+# https://github.com/laxmimerit/All-CSV-ML-Data-Files-Download/raw/master/IMDB-Dataset.csv
